@@ -1,3 +1,6 @@
+# Claude Code
+.claude/
+
 # LaTeX build artifacts
 *.aux
 *.fdb_latexmk
